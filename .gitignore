@@ -1,0 +1,11 @@
+Library
+Temp
+Build
+Obj
+*.suo
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+*.swp
+*.csproj
